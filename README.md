@@ -15,7 +15,7 @@
 :green_circle: Vue.js
 :large_blue_circle: Atomic CSS
 
-## Contact me!
+## :incoming_envelope: Contact me!
 - bilska.anastasiia@gmail.com
 - [Telegram](https://t.me/AnastasiiaBilska)
 - [LinkedIn](https://www.linkedin.com/in/anastasiia-bilska-08214a225/)
