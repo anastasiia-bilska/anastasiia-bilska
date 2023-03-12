@@ -15,6 +15,11 @@
 :green_circle: Vue.js
 :large_blue_circle: Atomic CSS
 
+## Contact me!
+- bilska.anastasiia@gmail.com
+- [Telegram](https://t.me/AnastasiiaBilska)
+- [LinkedIn](https://www.linkedin.com/in/anastasiia-bilska-08214a225/)
+
 <!--
 **anastasiia-bilska/anastasiia-bilska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
