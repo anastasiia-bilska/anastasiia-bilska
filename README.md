@@ -11,9 +11,9 @@
 - **English**: B2
 
 ## :woman_technologist: I’m currently learning:
-- :purple_circle: Redux
-- :green_circle: Vue.js
-- :large_blue_circle: Atomic CSS
+:purple_circle: Redux
+:green_circle: Vue.js
+:large_blue_circle: Atomic CSS
 
 <!--
 **anastasiia-bilska/anastasiia-bilska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
