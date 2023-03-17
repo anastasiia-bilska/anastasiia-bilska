@@ -15,7 +15,7 @@
 ## :woman_technologist: I’m currently learning:
 :purple_circle: Redux
 :green_circle: Vue.js
-:large_blue_circle: Atomic CSS
+:large_blue_circle: React Native
 
 ## :incoming_envelope: Contact me!
 - bilska.anastasiia@gmail.com
