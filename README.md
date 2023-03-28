@@ -8,7 +8,7 @@
 - **Full Stack technologies**: React, Vue.js, Typescript, JavaScript, Node.js, Sass, SCSS, CSS3, HTML5, SQL, Bootstrap, Bulma, Material UI, TailWind etc.
 - **Task and Project Management**: Git, Trello, ClickUp
 - **Tools**: NPM, Webpack, Eslint, Photoshop, Illustrator, Figma
-- **Methodologies**: BEM
+- **Methodologies**: BEM, Atomic CSS
 - **Algorithms**: Solved 170+ algorithmic tasks from CodeWars
 - **English**: B2
 
