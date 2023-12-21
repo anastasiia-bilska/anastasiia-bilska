@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### I am a responsible, hardworking and conscientious full stack / front-end developer with 1 year of experience. I have experience working with such techologes as React, React Native, React-router, Vue.js, Pinia, JavaScript, TypeScript, HTML, CSS, SASS(Scss), Bootstrap, Tailwind, Node.js, Express, Telegram web API, gulp and others. Love working in a team to achieve a common goal and always put a lot of effort into it. I am enthusiastic about new technologies, open to learning React Native and Redux. My english level - B2. In addition, I have a Master's degree in Software Engineering. 
+#### I am a responsible, hardworking and conscientious full stack / front-end developer with 1 year of experience in a Med tech company. I have experience working with such techologes as React, React Native, React-router, Vue.js, Pinia, JavaScript, TypeScript, HTML, CSS, SASS(Scss), Bootstrap, Tailwind, Node.js, Express, Telegram web API, gulp and others. Love working in a team to achieve a common goal and always put a lot of effort into it. I am enthusiastic about new technologies, open to learning React Native and Redux. My english level - B2. In addition, I have a Master's degree in Software Engineering. 
 
 ***See more in my [CV](https://drive.google.com/file/d/18As_CiyQnDvwTb-LjSMX4zwuDj3BgCOW/view?usp=sharing)!✨***
 
