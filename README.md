@@ -1,33 +1,38 @@
-# Hi there 👋
+# Hi, I'm Anastasiia 👋
 
-#### I am a responsible, hardworking and conscientious full stack / front-end developer with 1 year of experience in a Med tech company. I have experience working with such techologes as React, React Native, React-router, Vue.js, Pinia, JavaScript, TypeScript, HTML, CSS, SASS(Scss), Bootstrap, Tailwind, Node.js, Express, Telegram web API, gulp and others. Love working in a team to achieve a common goal and always put a lot of effort into it. I am enthusiastic about new technologies, open to learning React Native and Redux. My english level - B2. In addition, I have a Master's degree in Software Engineering. 
+Product-minded frontend engineer from Kyiv, Ukraine. Four years of building production web products with TypeScript, Vue/Nuxt and React. I like owning a feature end to end: working out what the business actually needs, shipping it, and checking in production that it worked.
 
-***See more in my [CV](https://drive.google.com/file/d/1hBUVW_GvXZu-PODqVaKf6HBZ8EYDVZNm/view?usp=sharing)!✨***
+## Now: Chapters
 
-## :gem: My hard skills:
-- **Full Stack technologies**: React, Vue.js, Pinia, React Native, Typescript, JavaScript, Node.js, Sass, SCSS, CSS3, HTML5, SQL, Bootstrap, Bulma, Material UI, TailWind, Telegram web API etc.
-- **Task and Project Management**: Git, Jira, ClickUp
-- **Tools**: NPM, Webpack, Eslint, Photoshop, Illustrator, Figma, Gulp
-- **Methodologies**: BEM, Atomic CSS
-- **Algorithms**: Solved 170+ algorithmic tasks from CodeWars
-- **English**: B2
+I own the subscription web funnel (quiz → checkout → paywall → upsell) that runs in 20+ markets, and the Nuxt marketing site with its blog.
 
-## :incoming_envelope: Contact me!
+- **Payments:** card checkout, Google Pay and Apple Pay, 3DS, VAT, local currencies and RTL checkout across a dozen markets
+- **Reliability:** Playwright and Vitest suites, plus a scheduled e2e monitor in production that runs test payments end to end
+- **Live preview:** the production funnel runs inside a no-code builder's iframe through a postMessage event bus
+- **Analytics:** GrowthBook experiments, BigQuery, Tableau; deduplicated server-side conversion events and cut the gap with the ad platform roughly threefold
+- **Second product:** on the same monorepo, built its marketing site in about a month and went beyond frontend into infrastructure-as-code and a small backend endpoint
+
+## How I work with AI
+
+Claude Code with MCP is my main tool. Agents write most of my code; I own the spec, the review and the checks.
+
+- Agent skills for my team: ticket creation, spec-driven implementation, design docs, a 9-locale localization skill
+- Helped shape our LLM code reviewer in CI, and rewrote its rules after it missed a real critical bug
+- MCP links to error tracking, APM, the data warehouse and analytics, so agents can run investigations, not just write code
+- I don't trust an AI-written test until I've broken the code and watched it fail
+
+## Before that
+
+MedTech: web platforms in React and Vue, and an Android app in React Native.
+
+## Stack
+
+TypeScript · Vue 3 · Nuxt · Pinia · React · React Native · Node.js · GraphQL · Strapi · PostgreSQL · Playwright · Vitest · Tailwind · SCSS · GrowthBook · BigQuery · Sentry · New Relic · Claude Code · MCP
+
+MSc in Software Engineering · English B2
+
+## Contact
+
 - bilska.anastasiia@gmail.com
-- [Telegram](https://t.me/AnastasiiaBilska)
 - [LinkedIn](https://www.linkedin.com/in/anastasiia-bilska-08214a225/)
-
-<!--
-**anastasiia-bilska/anastasiia-bilska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Telegram](https://t.me/AnastasiiaBilska)
